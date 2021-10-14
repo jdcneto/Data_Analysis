@@ -1,4 +1,4 @@
-# Data_Analysis
+# Exploratory Data Analysis
 
 ## OBJETIVOS
 - Realizar a análise e limpeza dos dados;   
